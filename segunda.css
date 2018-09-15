@@ -1,7 +1,7 @@
 .uno{
 text-align: center;
 font-size: 30px;
-background: #DEDEDE;
+background: #F7F306;
 color:#070707;
 padding: 20px 0px 20px 0px;
 letter-spacing: 3px;
@@ -9,19 +9,19 @@ letter-spacing: 3px;
 .dos{
 text-align: center;
 font-size: 20px;
-background: #1AFCF5;
+background: #89F706;
 color:#070707;
 padding: 10px 0px 10px 0px;
 }
 .tres{
 font-size: 15px;
-background: #CDD1D1;
+background: #33D95E;
 color:#070707;
 border: 5px solid #F1EFEF;
 }
 .cuatro{
 font-size: 15px;
-background: #0E4BBD;
+background: #187AF0;
 color:#FFFFFF;
 border: 5px solid #0E4BBD;
 }
